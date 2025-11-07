@@ -35,10 +35,10 @@
 ### 🏆 My Top Projects
 
 | Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 📱 [**Vitalnex**](#) | Android app for students to access messes, rentals, and medicals in their area | Android, Java, Firebase |
-| 🔄 [**UniversalAdapter**](#) | A Java adapter for user convenience integrating all listeners | Java |
-| 📂 [**Filora**](#) | File sharing and storage platform using IPFS | HTML, CSS, JavaScript, Firebase, IPFS |
+|---------------|--------------|-------------|
+| 🔄 [**UniversalAdapter**](https://github.com/vaibhavdb14/UniversalAdapter) | A Java adapter for user convenience integrating all listeners | Java |
+| 📱 [**Vitalnex**](https://github.com/vaibhavdb14/Vitalnex) | Android app for students to access messes, rentals, and medicals in their area | Android, Java, Firebase |
+| 📂 [**Filora**](https://github.com/vaibhavdb14/Filora) | File sharing and storage platform using IPFS | HTML, CSS, JavaScript, Firebase, IPFS |
 
 ---
 ### 📊 GitHub Stats
