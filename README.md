@@ -38,7 +38,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavdb14&langs_count=6&hide=Python&show_icons=true&locale=en&layout=compact&theme=default" alt="vaibhavdb14" />
 </p>
 
