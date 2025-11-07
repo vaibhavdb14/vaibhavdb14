@@ -4,10 +4,6 @@
 💻 Full Stack Developer | ☕ Java Enthusiast | 🌱 Lifelong Learner  
 </h3>
 
-<p align="center">
-  <em>Turning ideas into reality with clean and scalable code.</em>
-</p>
-
 ---
 
 ### 🌸 About Me
@@ -36,13 +32,21 @@
 </p>
 
 ---
+### 🏆 My Top Projects
 
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 📱 [**Vitalnex**](#) | Android app for students to access messes, rentals, and medicals in their area | Android, Java, Firebase |
+| 🔄 [**UniversalAdapter**](#) | A Java adapter for user convenience integrating all listeners | Java |
+| 📂 [**Filora**](#) | File sharing and storage platform using IPFS | HTML, CSS, JavaScript, Firebase, IPFS |
+
+---
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavdb14&langs_count=6&hide=Python&show_icons=true&locale=en&layout=compact&theme=default" alt="vaibhavdb14" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhavdb14&show_icons=true&locale=en&theme=default" alt="vaibhavdb14" />
 </p>
 
