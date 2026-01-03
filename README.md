@@ -43,15 +43,6 @@
 | 📂 [**Filora**](https://github.com/vaibhavdb14/Filora) | File sharing and storage platform using IPFS | HTML, CSS, JavaScript, Firebase, IPFS |
 
 ---
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavdb14&langs_count=6&hide=Python&show_icons=true&locale=en&layout=compact&theme=default" alt="vaibhavdb14" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavdb14&show_icons=true&locale=en&theme=default" alt="vaibhavdb14" />
-</p>
-
----
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
