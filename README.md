@@ -5,10 +5,10 @@ SAMPLE BANNER IMAGES (Choose one and delete the others)
 -->
 
 <!-- Option 1: Dark Blue Tech Network Banner -->
-<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Tech Banner"/>
+<!--<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Tech Banner"/>-->
 
 <!-- Option 2: Clean Minimalist Code Banner -->
-<!-- <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=2069&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Code Banner"/> -->
+<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=2069&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Code Banner"/> 
 
 <!-- Option 3: Neon Abstract Tech Banner -->
 <!-- <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=2070&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Neon Banner"/> -->
@@ -83,9 +83,10 @@ SAMPLE BANNER IMAGES (Choose one and delete the others)
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavdb14&show_icons=true&theme=radical&hide_border=true" alt="Vaibhav's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavdb14&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavdb14&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
