@@ -8,10 +8,10 @@ SAMPLE BANNER IMAGES (Choose one and delete the others)
 <!--<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Tech Banner"/>-->
 
 <!-- Option 2: Clean Minimalist Code Banner -->
-<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=2069&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Code Banner"/> 
+<!-- <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=2069&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Code Banner"/> -->
 
 <!-- Option 3: Neon Abstract Tech Banner -->
-<!-- <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=2070&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Neon Banner"/> -->
+ <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=2070&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Neon Banner"/> 
 
 <br/>
 
@@ -80,8 +80,6 @@ SAMPLE BANNER IMAGES (Choose one and delete the others)
 </p>
 
 ---
-
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
